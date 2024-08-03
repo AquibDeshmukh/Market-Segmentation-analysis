@@ -1,0 +1,1 @@
+This project focuses on market segmentation analysis, a crucial method for identifying distinct customer groups based on various attributes such as demographics, behavior, and preferences. The goal is to leverage data-driven insights to target specific segments with tailored marketing strategies.
